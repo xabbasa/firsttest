@@ -1,3 +1,11 @@
 body{
-    margin: 0
+    margin: 170px;
+}
+
+.apple{
+    width: 10px;
+}
+
+.banana{
+    background-color: yellow;
 }
